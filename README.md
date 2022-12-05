@@ -3,10 +3,10 @@ Simple and easy built in calculator in Django Framework with javascript,CSS,HTML
 
 Extract the Static.rar file in the same directory
 
-Install Django
+Install Django:-
 pip install django
 
-Run CMD terminal
+Run CMD terminal:-
 python manage.py runserver
 
 Refer the Report 

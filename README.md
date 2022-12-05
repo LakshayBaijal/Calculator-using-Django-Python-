@@ -5,6 +5,7 @@ Extract the Static.rar file in the same directory
 
 Install Django
 pip install django
+
 Run CMD terminal
 python manage.py runserver
 
